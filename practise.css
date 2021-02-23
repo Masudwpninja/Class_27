@@ -1,0 +1,15 @@
+
+
+
+
+
+.carousel-item {
+    height: 600px;
+}
+.accordion-button:focus{
+    box-shadow: none;
+}
+.w-50 {
+    width: 50% !important;
+    width: 194px !important;
+}
